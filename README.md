@@ -7,9 +7,9 @@ caused with getting this project to run, Github is very complicated.. :(
 
 Easier INTRUCTONS
 ------------------
-On this Github repository click on Code
-Download ZIP
-Extract the ZIP
-Open the extracted folder
-Then double click on the slnx files or open it from Visual Studio
+1.On this Github repository click on Code
+2.Download ZIP
+3.Extract the ZIP
+4.Open the extracted folder
+5.Then double click on the slnx files or open it from Visual Studio
 
