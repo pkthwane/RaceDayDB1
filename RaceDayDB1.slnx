@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="RaceDayDb.Tests/RaceDayDb.Tests/RaceDayDb.Tests.csproj" />
   <Project Path="RaceDayDB/RaceDayDB.csproj" />
 </Solution>
