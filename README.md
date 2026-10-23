@@ -13,3 +13,5 @@ Easier INTRUCTONS
 4.Open the extracted folder
 5.Then double click on the slnx files or open it from Visual Studio
 
+<img width="1467" height="1026" alt="Screenshot 2026-10-23 172305" src="https://github.com/user-attachments/assets/3f547109-12c8-4ec9-aa3a-80745e194eb6" />
+<img width="1474" height="902" alt="Screenshot 2026-10-23 172318" src="https://github.com/user-attachments/assets/699e128e-987c-4402-9a82-56cecaba23ef" />
